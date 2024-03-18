@@ -1,2 +1,10 @@
 wandb/
 wandb/*
+Digraph.gv
+graph
+graph.pdf
+graph_obs
+graph_obs.pdf
+graph_smallmodel
+graph_smallmodel.pdf
+output.png
